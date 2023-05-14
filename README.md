@@ -7,4 +7,17 @@ Database: AdventureWorks
 DBMS: SQL Server
 Python libraries: Pandas, Matplotlib
 
+### <ins> Finance Calculators 
+**Code and details :** [.py](https://github.com/TugceCankurt/Python-Projects/blob/main/finance_calculators.py) <br>
+**Description :** In this project, I created a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator. The user allowed to choose which calculation they want to do. **Math module** was used to create this program. 
+  
+  
 
+  
+ 
+  
+  
+  
+  
+  
+  
